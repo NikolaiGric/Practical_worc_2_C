@@ -1,0 +1,14 @@
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\bin\Debug\net6.0\Практическая №2 ОАиП.exe
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\bin\Debug\net6.0\Практическая №2 ОАиП.deps.json
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\bin\Debug\net6.0\Практическая №2 ОАиП.runtimeconfig.json
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\bin\Debug\net6.0\Практическая №2 ОАиП.dll
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\bin\Debug\net6.0\Практическая №2 ОАиП.pdb
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\Практическая №2 ОАиП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\Практическая №2 ОАиП.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\Практическая №2 ОАиП.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\Практическая №2 ОАиП.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\Практическая №2 ОАиП.dll
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\refint\Практическая №2 ОАиП.dll
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\Практическая №2 ОАиП.pdb
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\Практическая №2 ОАиП.genruntimeconfig.cache
+C:\Users\nikol\source\repos\Практическая №2 ОАиП\Практическая №2 ОАиП\obj\Debug\net6.0\ref\Практическая №2 ОАиП.dll
